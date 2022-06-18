@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test the mission Component mission section renders 1`] = `
+<div>
+  <tr>
+    <td />
+    <td />
+    <td>
+      Falcon 1
+    </td>
+    <td>
+      <span
+        class="badge bg-secondary"
+      >
+        NOT A MEMBER
+      </span>
+    </td>
+    <td>
+      <button
+        class="btn-action btn btn-outline-secondary"
+        type="button"
+      >
+        Join Mission
+      </button>
+    </td>
+  </tr>
+</div>
+`;
