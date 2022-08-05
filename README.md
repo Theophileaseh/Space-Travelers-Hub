@@ -34,8 +34,8 @@ Now open your terminal and navigate to the folder you would like to save the pro
 
 Type these commands into the terminal:
 
-- git clone https://github.com/aimalamiri/Space-Travelers.git
-- cd Space-Travelers
+- git clone https://github.com/Theophileaseh/Space-Travelers-Hub.git
+- cd Space-Travelers-Hub
 
 - If you work on Windows, you can use this command in Git Bash.
 
@@ -67,17 +67,18 @@ Type this command into the terminal:
 
 ## Authors
 
-👤 **Aimal Amiri**
-
-- GitHub: [@aimalamiri](https://github.com/aimalamiri)
-- Twitter: [@meaimal](https://twitter.com/meaimal)
-- LinkedIn: [Aimal Amiri](https://linkedin.com/in/aimal-amiri)
 
 👤 **Nwachan Theophile**
 
 - GitHub: [@Theophileaseh](https://github.com/Theophileaseh)
 - Twitter: [@NwachanT](https://twitter.com/NwachanT)
-- LinkedIn: [nwachan-theophile-342274172](https://www.linkedin.com/in/nwachan-theophile-342274172/)
+- LinkedIn: [nwachan-theophile-342274172](https://www.linkedin.com/in/nwachan-theophile/)
+
+👤 **Aimal Amiri**
+
+- GitHub: [@aimalamiri](https://github.com/aimalamiri)
+- Twitter: [@meaimal](https://twitter.com/meaimal)
+- LinkedIn: [Aimal Amiri](https://linkedin.com/in/aimal-amiri)
 
 ## 🤝 Contributing
 
