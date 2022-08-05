@@ -13,6 +13,7 @@ const Rockets = () => {
       dispatch(getRocketList());
     }
   }, []);
+  console.log(rockets);
 
   return (
     <div className="rockets-main-container">
